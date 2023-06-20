@@ -13,7 +13,7 @@
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
 <tr>
 <td>
-<span style="color:blue"></span>
+<span style="color:blue">
 Анализ ЦА и конкурентов
 
 Постановка целей и задач
