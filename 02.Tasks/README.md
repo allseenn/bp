@@ -13,8 +13,8 @@
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
 <tr>
 <td>
-<span style="color:blue">
-Анализ ЦА и конкурентов
+
+<span style="color:blue">Анализ ЦА и конкурентов</span>
 
 Постановка целей и задач
 
@@ -39,7 +39,7 @@
 Выставление счета
 
 Оплата
-</span>
+
 </td>
 <td>
 
