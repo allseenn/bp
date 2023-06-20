@@ -8,7 +8,11 @@
 # Решение
 
 ## Студии веб-дизайна
-
+<style>
+  td, th {
+    border: 1px solid black;
+  }
+</style>
 <table border=1>
 <tr><th>Первый Бит</th><th>GEKTOR 2.0</th></tr>
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
