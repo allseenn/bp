@@ -8,7 +8,7 @@
 # Решение
 
 ## Студии веб-дизайна
-<span style="color:blue">
+<span style="td border=1">
 <table border=1>
 <tr ><th>Первый Бит</th><th>GEKTOR 2.0</th></tr>
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
