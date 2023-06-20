@@ -8,9 +8,9 @@
 # Решение
 
 ## Студии веб-дизайна
-</style>
+<span style="color:blue">
 <table border=1>
-<tr border=1><th>Первый Бит</th><th>GEKTOR 2.0</th></tr>
+<tr ><th>Первый Бит</th><th>GEKTOR 2.0</th></tr>
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
 <tr>
 <td>
@@ -82,3 +82,4 @@
 </td>
 </tr>
 </table>
+</span>
