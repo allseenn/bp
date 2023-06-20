@@ -8,13 +8,12 @@
 # Решение
 
 ## Студии веб-дизайна
-<span style="td  {border: 1px solid black}">
 <table border=1>
 <tr ><th>Первый Бит</th><th>GEKTOR 2.0</th></tr>
 <tr><td colspan=2 align=center>Основные бизнес-процессы</td></tr>
 <tr>
 <td>
-
+<span style="color:blue"></span>
 Анализ ЦА и конкурентов
 
 Постановка целей и задач
@@ -40,6 +39,7 @@
 Выставление счета
 
 Оплата
+</span>
 </td>
 <td>
 
@@ -82,4 +82,3 @@
 </td>
 </tr>
 </table>
-</span>
