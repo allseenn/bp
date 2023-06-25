@@ -1,1 +1,151 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T11:10:46.587Z" agent="5.0 (X11)" etag="lVHAKREuCR5Bk3FWMppI" version="20.0.4" type="github"><diagram id="WxS1320b2pg--hD3rmVp" name="Page-1">jZPLcoMgFIafhmVmBK3RbVLTbNouXGSaHVWqzKAYgtHk6YtcvCTNTDfM4TtX4Af426p/E7gp33lOGEBe3gP/FSC0jpBaB3A1IIjWBhSC5gbBCaT0Riz0LG1pTs6LQMk5k7RZwozXNcnkgmEheLcM++Fs2bXBBXkAaYbZIz3QXJaGRmg98T2hRek6wzA2ngq7YHuSc4lz3s2QnwB/KziXxqr6LWHD3bl7MXm7J95xMEFq+Z8EdFyFn2dYpF37dTt9BMfDPlnZKhfMWntggEKm6m1yelFmMZjg1QMxGtbNi15VlqeNYAbnATplk+h15zgEkeeqqzHnDf7oicJTy8fuyyK2nbJNo9jOE0O9jbQLzUrY+t/ivuP9HPqh5NW9vuBtnZPhAj3l7koqSdrgbPB2Su6KlbJiagfH7AsRkvRP3wiOL69+DOEVkeKqQmxCAAOTYn9LaLXTTdKDTk/lTHYuDlu1F2PlSRDKsJpw20l72jf7wH7yCw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-25T12:11:28.996Z" agent="5.0 (X11)" etag="U422CySSSrTT6Pe67GLg" version="20.0.4" type="github">
+  <diagram id="WxS1320b2pg--hD3rmVp" name="Page-1">
+    <mxGraphModel dx="782" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Декомпозиция процессов&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;на примере веб-девелопера&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&quot;Первый Бит&quot;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="46" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-2" value="Административный отдел" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="248" y="167" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-3" value="Отдел разработки" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="412" y="167" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-4" value="Экономический отдел" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="688" y="167" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-5" value="Юридический отдел" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="108" y="167" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-6" value="&lt;div&gt;Отдел Маркетинга&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="558" y="167" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-7" value="PHP разработка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="247" y="319" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-8" value="JavaScript разработка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="411" y="319" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-9" value="Деплой" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="687" y="319" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-10" value="Разработка макета" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="107" y="319" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-11" value="Верстка" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="557" y="319" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-32" value="Создание виртуального сервера" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="248" y="478" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-33" value="Установка операционной системы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="412" y="478" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-34" value="Заливка кода на сервер" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="688" y="478" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-35" value="Выбор дата центра" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="108" y="478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-36" value="Установка LAMP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="558" y="478" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-37" value="Установка и настройка Mysql Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="248" y="650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-38" value="Установка и настройка PHP" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="412" y="650" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-39" value="Установка и настройка Apache" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="688" y="650" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-40" value="Настройка ОС RedHat Linux" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="108" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-41" value="&lt;div&gt;Установка и настройка PHP-FPM&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="558" y="650" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-47" value="Настройка конфигурационных файлов" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="249" y="813" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-48" value="Создание базы данных сайт" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="413" y="813" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-49" value="Настройка прав доступа" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="689" y="813" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-50" value="Установка пакета Mysql-server.rpm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="109" y="813" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-51" value="Создание пользователя БД" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="559" y="813" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-52" value="Создание таблиц БД" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1000" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-53" value="Создание первичных ключей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="412" y="1000" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-54" value="Создание индексов " style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="688" y="1000" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-55" value="Создание схемы БД" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="108" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-56" value="Создание вторичных ключей" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="558" y="1000" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-57" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="182" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-59" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="670" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-61" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="493" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-62" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="334" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-63" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="31" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-65" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="31" y="1015" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464" y="239" as="sourcePoint" />
+            <mxPoint x="464" y="299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="741" y="396" as="sourcePoint" />
+            <mxPoint x="741" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="567" as="sourcePoint" />
+            <mxPoint x="615" y="627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-72" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="736" as="sourcePoint" />
+            <mxPoint x="317" y="796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yr7VhOkPuo0g-uGMmCsu-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=20;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="910" as="sourcePoint" />
+            <mxPoint x="470" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
