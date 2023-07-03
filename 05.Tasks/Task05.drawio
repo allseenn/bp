@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T17:21:14.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="vhQnNt8yJusnmAexWdxf" version="21.5.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-07-03T17:27:43.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="azp9uPy2IJ1_ltUH1Qx6" version="21.5.2" type="device">
   <diagram name="Страница 1" id="Yh-VNjQ8R9UhYuhMoos4">
     <mxGraphModel dx="1114" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -29,6 +29,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="453" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-8" target="9ptOkSFjQRT5jKVAQM2t-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ptOkSFjQRT5jKVAQM2t-8" value="Регистрация заявления в системе кадрового делопроизовдства" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="260" width="120" height="60" as="geometry" />
