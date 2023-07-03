@@ -1,0 +1,168 @@
+<mxfile host="app.diagrams.net" modified="2023-07-03T17:21:14.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="vhQnNt8yJusnmAexWdxf" version="21.5.2" type="device">
+  <diagram name="Страница 1" id="Yh-VNjQ8R9UhYuhMoos4">
+    <mxGraphModel dx="1114" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-1" value="Процесс выдачи справки о заработной плате сотруднику компании Первый Бит в нотации BPMN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="166" y="20" width="838" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Генеральный директор&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="675" width="204" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Главный бухгалтер&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="448.5" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Руководитель отдела кадров&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="215" width="215" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-6" target="9ptOkSFjQRT5jKVAQM2t-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-6" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;fillColor=#33FF33;" vertex="1" parent="1">
+          <mxGeometry x="154" y="265" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-7" value="Заявление на выдачу справки о зарплате" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-8" target="9ptOkSFjQRT5jKVAQM2t-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-8" value="Регистрация заявления в системе кадрового делопроизовдства" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.7;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-9" target="9ptOkSFjQRT5jKVAQM2t-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="160" />
+              <mxPoint x="120" y="440" />
+              <mxPoint x="310" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-9" value="База 1С Кадры" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="300" y="125" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.492;entryY=0.897;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-10" target="9ptOkSFjQRT5jKVAQM2t-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-10" target="9ptOkSFjQRT5jKVAQM2t-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-10" value="Оформление справки о зарплате" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="458.5" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-11" value="Справка без подписей и печати" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="140" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-12" target="9ptOkSFjQRT5jKVAQM2t-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-12" target="9ptOkSFjQRT5jKVAQM2t-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-12" value="Проверка справки о зарплате с бухгалтерской базой" style="rounded=1;whiteSpace=wrap;html=1;arcSize=19;" vertex="1" parent="1">
+          <mxGeometry x="448.5" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-13" value="База 1С Бухгалтерия" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="405" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-26" value="Не найдены" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-16" target="9ptOkSFjQRT5jKVAQM2t-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-34" value="найдены неточности" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-16" target="9ptOkSFjQRT5jKVAQM2t-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-16" value="Найдены неточности" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="626" y="505" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-17" target="9ptOkSFjQRT5jKVAQM2t-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-17" value="Подписание справки&lt;br&gt;главным бухгалтером" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="761" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-18" target="9ptOkSFjQRT5jKVAQM2t-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-18" target="9ptOkSFjQRT5jKVAQM2t-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-18" value="Подписание генеральным директором" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="621" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-19" target="9ptOkSFjQRT5jKVAQM2t-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-19" value="Заверение справки печатью организации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-23" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=message;fillColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="145" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-24" target="9ptOkSFjQRT5jKVAQM2t-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-24" target="9ptOkSFjQRT5jKVAQM2t-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="9ptOkSFjQRT5jKVAQM2t-24" target="9ptOkSFjQRT5jKVAQM2t-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-24" value="Регистрация справки в журнале исходящих докуметов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="884" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-44" value="&amp;nbsp;Готовая справка: с номером, печатью и подписями" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="132.5" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4" y="80" as="sourcePoint" />
+            <mxPoint x="1162" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-47" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4" y="800" as="sourcePoint" />
+            <mxPoint x="1162" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-48" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4" y="360" as="sourcePoint" />
+            <mxPoint x="1162" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4" y="600" as="sourcePoint" />
+            <mxPoint x="1162" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-50" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106" y="800" as="sourcePoint" />
+            <mxPoint x="106" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-51" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3" y="800" as="sourcePoint" />
+            <mxPoint x="3" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-52" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1162" y="800" as="sourcePoint" />
+            <mxPoint x="1162" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ptOkSFjQRT5jKVAQM2t-54" value="Выдача справки о зарплате наруки сотруднику" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="220" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
