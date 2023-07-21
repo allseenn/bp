@@ -88,4 +88,7 @@
 <tr><td>Перевод клиентов в новый ДЦ</td><td>5</td><td>5</td><td>4</td><td>3</td><td>3</td><td>20</td></tr>
 <tr><td>Разраб. на новой платф.</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>9</td></tr>
 <tr><td>Привлеч. клиентов через рекламу</td><td>2</td><td>1</td><td>2</td><td>2</td><td>2</td><td>9</td></tr>
+<tr><td>Привлеч. клиентов через холодный обзвон</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>5</td></tr>
+<tr><td>Привлеч. клиентов через смс рассылки</td><td>1</td><td>1</td><td>1</td><td>2</td><td>2</td><td>7</td></tr>
+</table>
 </table>
